@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Diogo, I´m from Brazil!<br><br>- 💻Looking for first opportunity in the technology sector<br>- 📚 I'm currently learning language C#.<br>- ⚡In my free time I like read books and studying.<br>-  🖱️Passionate about Technology and videogames!</p>
+<p align="left">My name is Diogo, I´m from Brazil!<br><br>- 💻Looking for first opportunity in the technology sector<br>- 📚 I'm currently learning language Java.<br>- ⚡In my free time I like read books and studying.<br>-  🖱️Passionate about Technology and videogames!</p>
 
 ###
 
@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
