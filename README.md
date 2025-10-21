@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Diogo, I´m from Brazil!<br><br>- 💻Looking for first opportunity in the technology sector<br>- 📚 I'm currently learning language Java.<br>- ⚡In my free time I like read books and studying.<br>-  🖱️Passionate about Technology and videogames!</p>
+<p align="left">My name is Diogo, I´m from Brazil!<br><br>- 📚 I'm currently learning language Java.<br>- ⚡In my free time I like read books and studying.<br>-  🖱️Passionate about Technology and videogames!</p>
 
 ###
 
